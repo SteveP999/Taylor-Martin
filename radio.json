@@ -1,0 +1,12 @@
+{
+  "artist": "Taylor Martin",
+  "latestUrl": "https://raw.githubusercontent.com/SteveP999/Taylor-Martin/main/latest.json",
+  "tracks": [
+    {
+      "title": "Montana Skies",
+      "album": "Single",
+      "cover": "https://raw.githubusercontent.com/SteveP999/Taylor-Martin/main/taylor-martin-montana-skies-cover.png",
+      "audioSrc": "https://www.dropbox.com/...&raw=1"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Taylor Martin",
+  "short_name": "Taylor Martin",
+  "description": "Taylor Martin on Hello Texas Records",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#060805",
+  "theme_color": "#C8A860",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/SteveP999/Taylor-Martin/main/images/logos/taylor-martin-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/SteveP999/Taylor-Martin/main/images/logos/taylor-martin-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

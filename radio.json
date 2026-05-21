@@ -1,19 +1,22 @@
 {
   "artist": "Taylor Martin",
-  "latestUrl": "https://raw.githubusercontent.com/SteveP999/Taylor-Martin/main/latest.json",
+  "latestUrl": "latest.json",
   "featuredTrack": {
     "title": "Montana Skies",
     "artist": "Taylor Martin",
     "album": "Northbound",
     "cover": "https://raw.githubusercontent.com/SteveP999/Taylor-Martin/main/images/covers/taylor-martin-montana-skies-cover.png",
-    "audioSrc": "https://www.dropbox.com/scl/fi/umy4fkkkabucsufshifry/Sky-v10.mp3?rlkey=oal277gilvw2mkava6sm7xy07&raw=1"
+    "audioSrc": "https://www.dropbox.com/scl/fi/umy4fkkkabucsufshifry/Sky-v10.mp3?rlkey=oal277gilvw2mkava6sm7xy07&raw=1",
+    "videos": []
   },
   "tracks": [
     {
       "title": "Montana Skies",
+      "artist": "Taylor Martin",
       "album": "Northbound",
       "cover": "https://raw.githubusercontent.com/SteveP999/Taylor-Martin/main/images/covers/taylor-martin-montana-skies-cover.png",
-      "audioSrc": "https://www.dropbox.com/scl/fi/umy4fkkkabucsufshifry/Sky-v10.mp3?rlkey=oal277gilvw2mkava6sm7xy07&raw=1"
+      "audioSrc": "https://www.dropbox.com/scl/fi/umy4fkkkabucsufshifry/Sky-v10.mp3?rlkey=oal277gilvw2mkava6sm7xy07&raw=1",
+      "videos": []
     }
   ]
 }

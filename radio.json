@@ -2,11 +2,11 @@
   "artist": "Taylor Martin",
   "latestUrl": "latest.json",
   "featuredTrack": {
-    "title": "Montana Skies",
+    "title": "She Loved Horses",
     "artist": "Taylor Martin",
     "album": "Northbound",
-    "cover": "https://raw.githubusercontent.com/SteveP999/Taylor-Martin/main/images/covers/taylor-martin-montana-skies-cover.png",
-    "audioSrc": "https://www.dropbox.com/scl/fi/umy4fkkkabucsufshifry/Sky-v10.mp3?rlkey=oal277gilvw2mkava6sm7xy07&raw=1",
+    "cover": "https://raw.githubusercontent.com/SteveP999/Taylor-Martin/main/images/covers/taylor-martin-she-loved-horses-cover.png",
+    "audioSrc": "https://www.dropbox.com/scl/fi/3qx8dfahefmelw492p2yu/taylor-martin-she-loved-horses-mp3.mp3?rlkey=i41o1fmafvva2likbm9cmxhn0&raw=1",
     "videos": []
   },
   "tracks": [
@@ -16,6 +16,14 @@
       "album": "Northbound",
       "cover": "https://raw.githubusercontent.com/SteveP999/Taylor-Martin/main/images/covers/taylor-martin-montana-skies-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/umy4fkkkabucsufshifry/Sky-v10.mp3?rlkey=oal277gilvw2mkava6sm7xy07&raw=1",
+      "videos": []
+    },
+    {
+      "title": "She Loved Horses",
+      "artist": "Taylor Martin",
+      "album": "Northbound",
+      "cover": "https://raw.githubusercontent.com/SteveP999/Taylor-Martin/main/images/covers/taylor-martin-she-loved-horses-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/3qx8dfahefmelw492p2yu/taylor-martin-she-loved-horses-mp3.mp3?rlkey=i41o1fmafvva2likbm9cmxhn0&raw=1",
       "videos": []
     }
   ]

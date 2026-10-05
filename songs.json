@@ -17,7 +17,8 @@
     "includeOnRadio": true,
     "includeOnHomepage": false,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
   },
   {
     "id": "taylor-martin-she-loved-horses",
@@ -37,6 +38,7 @@
     "includeOnRadio": true,
     "includeOnHomepage": true,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
   }
 ]
